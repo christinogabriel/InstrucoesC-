@@ -1,0 +1,14 @@
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\bin\Debug\net6.0\UrsinhoFelix.exe
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\bin\Debug\net6.0\UrsinhoFelix.deps.json
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\bin\Debug\net6.0\UrsinhoFelix.runtimeconfig.json
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\bin\Debug\net6.0\UrsinhoFelix.dll
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\bin\Debug\net6.0\UrsinhoFelix.pdb
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.AssemblyInfoInputs.cache
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.AssemblyInfo.cs
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.csproj.CoreCompileInputs.cache
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.dll
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\refint\UrsinhoFelix.dll
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.pdb
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\UrsinhoFelix.genruntimeconfig.cache
+C:\Users\36127962023.2\source\repos\projetos\UrsinhoFelix\UrsinhoFelix\obj\Debug\net6.0\ref\UrsinhoFelix.dll
